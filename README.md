@@ -1,8 +1,7 @@
 ### Hi there 👋 I'm Apoorva Y Gopinath
 
 - 🔭 A Data Science enthusiast
-- 🌻 Completed a few online courses on Data Science and Machine Learning
-- 🌱 Working on Data Science projects and building my GitHub profile
+- 🌻 Currently working as an Analyst at Mindshare UK
 - 💻 Previously a software engineer at Cerner Healthcare Solutions Pvt. Ltd., India
 
 <!--
